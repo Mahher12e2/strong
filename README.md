@@ -25,14 +25,18 @@ in time O(n(n+m)).
 5.Raed Jaberi, Minimum 2-Vertex Strongly Biconnected Spanning Directed Subgraph Problem Discrete Mathematics Letters, 40–43, Volume 7(2021) DOI: 10.47443/dml.2021.0024
 
 6.Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html
+
+
+
+
 ااسماء الطلاب المشاركين::
-ماهر احمد صقر 
-محمد يونس عمران
-معلا سيف الدين ماضي 
-كرم جمال عرب
-زين العابدين عزيز احمد
-عبد لله حمزة الورعة
-ابراهيم رافع عليان
-محمد مصطفئ عاقل
-عبدلله محمد سليم برهم
-محمد زهير علوش
+ماهر احمد صقر **
+محمد يونس عمران**
+معلا سيف الدين ماضي **
+كرم جمال عرب**
+زين العابدين عزيز احمد**
+عبد لله حمزة الورعة**
+ابراهيم رافع عليان**
+محمد مصطفئ عاقل**
+عبدلله محمد سليم برهم**
+محمد زهير علوش**
