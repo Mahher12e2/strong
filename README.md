@@ -1,6 +1,6 @@
 A strongly biconnected directed graph G=(V,E) is 2-vertex strongly biconnected[5] if G has at least three
 
-vertices and G\{w} is strongly biconnected for all vertices w in G.  
+vertices and G\{w} is strongly biconnected for all vertices w in G.
 
 Task
 
@@ -26,9 +26,6 @@ in time O(n(n+m)).
 
 6.Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html
 
-
-
-
 اسماء الطلاب المشاركين::
 1-ماهر احمد صقر **
 2-محمد يونس عمران**
@@ -40,3 +37,4 @@ in time O(n(n+m)).
 8-محمد مصطفئ عاقل**
 9-عبدلله محمد سليم برهم**
 10-محمد زهير علوش**
+test 2026
